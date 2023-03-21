@@ -1,6 +1,6 @@
 .image-container {
-  width: 60vw;
-  max-width: 600px;
+  width: 1000px;
+  max-width: 900px;
   position: relative;
 }
 .black-background {
@@ -16,6 +16,8 @@
 .name h2 {
   font-size: clamp(22px, 7vw 95px);
   letter-spacing: 4px;
+  margin-left: -100px;
+  color: cyan;
 }
 .name .last {
   margin: 50px 0 0 20px;
@@ -26,20 +28,22 @@
   justify-content: center;
   align-items: center;
   font-family: "Roboto", sans-serif;
-  margin-top: 220px;
+  margin-top: 100px;
+  margin-left: 50px;
   width: clamp(280px, 25vw, 450px);
 }
 
 .position > div {
   width: clamp(10px, 3vw, 70px);
   height: 2px;
-  background-color: white;
+  background-color: cyan;
   margin-right: 10px;
   border-radius: 10px;
 }
 .position h2 {
   letter-spacing: 2px;
   font-size: clamp(16px, 3vw, 26px);
+  color: cyan;
 }
 
 /* Responsive */

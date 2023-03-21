@@ -66,7 +66,7 @@ const Home = () => {
         <Animator animation={batch(Fade(), Sticky(), MoveOut(-100, 100))}>
           <div className="position">
             <div></div>
-            <h2 className="last">FrontEnd Developer</h2>
+            <h2>FrontEnd Developer</h2>
           </div>
         </Animator>
       </ScrollPage>
