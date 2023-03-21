@@ -1,8 +1,11 @@
-LANDING PAGE
-Description
+# LANDING PAGE
+
+## Description
+
 Project aims to create a Landing Page.
 
 Project Skeleton
+```
 Landing Page (folder)
 |
 |----readme.md  
@@ -19,7 +22,9 @@ SOLUTION
 │ ├── index.js
 │ └── index.css
 └── package.json
-
+```
 Expected Outcome
 
-☺ Happy Coding ✍
+![Project Snapshot](Landing-Page.gif)
+
+**<p align="center">&#9786; Happy Coding &#9997;</p>**
